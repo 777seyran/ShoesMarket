@@ -1,0 +1,11 @@
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\bin\Release\netcoreapp2.0\ShoesMarket.deps.json
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\bin\Release\netcoreapp2.0\ShoesMarket.runtimeconfig.json
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\bin\Release\netcoreapp2.0\ShoesMarket.runtimeconfig.dev.json
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\bin\Release\netcoreapp2.0\ShoesMarket.dll
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\bin\Release\netcoreapp2.0\ShoesMarket.pdb
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\obj\Release\netcoreapp2.0\ShoesMarket.csprojResolveAssemblyReference.cache
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\obj\Release\netcoreapp2.0\ShoesMarket.csproj.CoreCompileInputs.cache
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\obj\Release\netcoreapp2.0\ShoesMarket.AssemblyInfoInputs.cache
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\obj\Release\netcoreapp2.0\ShoesMarket.AssemblyInfo.cs
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\obj\Release\netcoreapp2.0\ShoesMarket.dll
+C:\Users\seyran.kurtveliev\Desktop\ShoesMarket\ShoesMarket\obj\Release\netcoreapp2.0\ShoesMarket.pdb
